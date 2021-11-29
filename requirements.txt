@@ -10,3 +10,5 @@ pandas
 scipy
 beautifulsoup4
 pandarallel
+jupyter
+python -m spacy download en_core_web_lg
