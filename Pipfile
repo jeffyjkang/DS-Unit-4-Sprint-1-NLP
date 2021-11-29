@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gensim = "*"
+pyldavis = "*"
+spacy = "*"
+scikit-learn = "*"
+seaborn = "*"
+squarify = "*"
+ipykernel = "*"
+nltk = "*"
+pandas = "*"
+scipy = "*"
+beautifulsoup4 = "*"
+pandarallel = "*"
+jupyterlab = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
